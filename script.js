@@ -1,5 +1,3 @@
-
-
 const btn = document.getElementById('calculate');
 const result = document.getElementById('result');
 const clear= document.getElementById('clear');
